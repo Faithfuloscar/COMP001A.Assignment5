@@ -27,3 +27,9 @@ a {
     border: 1px solid #000000; /* Bright blue border color */
     transition: all 0.3s ease; /* Adding a transition */
 }
+
+ul {
+    list-style: none; /* Removing the bullet points */
+    margin-left: 20px; /* Indenting the list */
+    margin-bottom: 12px; /* Adding some space below the list */
+}
