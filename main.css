@@ -10,4 +10,9 @@ body, h1, h2, p, ul, li, a {
 
 body {
     background-image: url(images/Background.psd);
+    background-color: #35504e;
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
