@@ -20,7 +20,7 @@ h1 {
 }
 
 a {
-    display: inline-block; /* making the link a block element */
+    display: block; /* making the link a block element */
     color: #3498db; /* Bright blue text color */
     text-decoration: none; /* Removing the underline */
     padding: 5px 10px; /* Adding some space inside the link */
