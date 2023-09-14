@@ -36,7 +36,7 @@ a:link, a:visited{
     text-align: center;
     text-decoration: none; /* Removing the underline */
     border: 1px solid #000000; /* Bright blue border color */
-    padding : 1em;
+    padding : 2em;
     transition: all 0.3s ease; /* Adding a transition */
 }
 
