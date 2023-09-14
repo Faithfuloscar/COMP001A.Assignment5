@@ -1,7 +1,8 @@
 .external-css {
-    color: #038C7F;
-    background-image: url(images/Background.jpg);
+    color: #d8d8d8;
+    background-color: whitesmoke;
 }
+
 body, h1, h2, p, ul, li, a {
     margin: 0; /*removing the default margin */
     padding: 0; /*removing the default padding */
@@ -9,12 +10,8 @@ body, h1, h2, p, ul, li, a {
 }
 
 body {
-    background-image: url(images/Background.jpg);
-    background-color: #123c63;
-    height: min-content;
-    background-position: auto;
-    background-repeat: no-repeat;
-    background-size: contain;
+    background-color: whitesmoke;
+
 }
 
 h1 {
