@@ -31,7 +31,7 @@ h2 {
 }
 a:link, a:visited{
     background-color: black;
-    display: flex; /* making the link a block element */
+    display: inline-block; /* making the link a block element */
     width: 250px;
     color: #3498db; /* Bright blue text color */
     text-align: center;
@@ -47,5 +47,4 @@ ul {
     list-style: none; /* Removing the bullet points */
     margin-left: 20px; /* Indenting the list */
     margin-bottom: 12px; /* Adding some space below the list */
-    display: flex;
 }
