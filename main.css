@@ -37,5 +37,5 @@ ul {
     margin-left: 50%; /* Indenting the list */
     margin-right: 50%;
     margin-bottom: 12px; /* Adding some space below the list */
-    border-width: 5em;
+    border-width: auto;
 }
