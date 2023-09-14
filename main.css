@@ -27,7 +27,7 @@ a {
     display: inline-block; /* making the link a block element */
     color: #3498db; /* Bright blue text color */
     text-decoration: none; /* Removing the underline */
-    padding: 2.5px 10px; /* Adding some space inside the link */
-    border: 1px solid #3498db; /* Bright blue border color */
+    padding: 5px 10px; /* Adding some space inside the link */
+    border: 1px solid #000000; /* Bright blue border color */
     transition: all 0.3s ease; /* Adding a transition */
 }
