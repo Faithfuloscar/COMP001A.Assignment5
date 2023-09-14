@@ -34,6 +34,7 @@ a {
     color: #3498db; /* Bright blue text color */
     text-decoration: none; /* Removing the underline */
     border: 1px solid #000000; /* Bright blue border color */
+    padding-block: 2em;
     transition: all 0.3s ease; /* Adding a transition */
 }
 
