@@ -29,7 +29,6 @@ a {
     text-decoration: none; /* Removing the underline */
     padding-left: 1px;
     padding-right: 1px;
-    padding: 2.5px 10px; /* Adding some space inside the link */
     border: 1px solid #000000; /* Bright blue border color */
     transition: all 0.3s ease; /* Adding a transition */
 }
