@@ -14,7 +14,7 @@ body {
     height: min-content;
     background-position: 50% 75%;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: contain;
 }
 
 h1 {
