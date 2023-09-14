@@ -36,5 +36,5 @@ ul {
     list-style: none; /* Removing the bullet points */
     margin-left: 20px; /* Indenting the list */
     margin-bottom: 12px; /* Adding some space below the list */
-    border-width: auto;
+    border-width: 50px;
 }
