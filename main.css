@@ -11,7 +11,7 @@ body, h1, h2, p, ul, li, a {
 body {
     background-image: url(images/Background.jpg);
     background-color: #123c63;
-    height: max-content;
+    height: min-content;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
