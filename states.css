@@ -1,6 +1,6 @@
 .external-css {
-    color: #038C7F;
-    background-image: url(images/Background.jpg);
+    color: #d8d8d8;
+    background-color: whitesmoke;
 }
 body, h1, h2, p, ul, li, a {
     margin: 0; /*removing the default margin */
@@ -9,12 +9,8 @@ body, h1, h2, p, ul, li, a {
 }
 
 body {
-    background-image: url(images/Background.jpg);
-    background-color: #05386f;
-    height: min-content;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
+    background-color: whitesmoke;
+
 }
 
 h1 {
@@ -39,7 +35,7 @@ a:link, a:visited{
     background-color: black;
     display: inline-block; /* making the link a block element */
     width: 250px;
-    color: #3498db; /* Bright blue text color */
+    color: #965e1f; /* Bright blue text color */
     text-align: center;
     text-decoration: none; /* Removing the underline */
     border: 1px solid #000000; /* Bright blue border color */
