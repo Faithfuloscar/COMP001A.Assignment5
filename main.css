@@ -1,6 +1,6 @@
 .external-css {
     color: #038C7F;
-    background-image: url(images/Background.psd);
+    background-image: url(images/Background.jpg);
 }
 body, h1, h2, p, ul, li, a {
     margin: 0;
@@ -9,8 +9,8 @@ body, h1, h2, p, ul, li, a {
 }
 
 body {
-    background-image: url(images/Background.psd);
-    background-color: #35504e;
+    background-image: url(images/Background.jpg);
+    background-color: #325e5b;
     height: auto;
     background-position: center;
     background-repeat: no-repeat;
