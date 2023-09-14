@@ -33,7 +33,6 @@ a {
     display: list-item; /* making the link a block element */
     color: #3498db; /* Bright blue text color */
     text-decoration: none; /* Removing the underline */
-    padding: ;
     border: 1px solid #000000; /* Bright blue border color */
     transition: all 0.3s ease; /* Adding a transition */
 }
