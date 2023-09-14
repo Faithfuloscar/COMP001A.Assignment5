@@ -27,6 +27,8 @@ a {
     display: list-item; /* making the link a block element */
     color: #3498db; /* Bright blue text color */
     text-decoration: none; /* Removing the underline */
+    padding-left: 1px;
+    padding-right: 1px;
     padding: 2.5px 10px; /* Adding some space inside the link */
     border: 1px solid #000000; /* Bright blue border color */
     transition: all 0.3s ease; /* Adding a transition */
@@ -36,6 +38,4 @@ ul {
     list-style: none; /* Removing the bullet points */
     margin-left: 20px; /* Indenting the list */
     margin-bottom: 12px; /* Adding some space below the list */
-    border-left-width: 2em;
-    border-right-width: 2em;
 }
