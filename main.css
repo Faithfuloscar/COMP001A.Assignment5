@@ -2,3 +2,6 @@
     color: #038C7F;
     background-image: url(images/background-image);
 }
+body {
+    background-image: url(images/Background.psd);
+}
