@@ -32,7 +32,7 @@ h2 {
 a:link, a:visited{
     background-color: black;
     display: block; /* making the link a block element */
-    width: 5em;
+    width: 25px;
     color: #3498db; /* Bright blue text color */
     text-align: center;
     text-decoration: none; /* Removing the underline */
