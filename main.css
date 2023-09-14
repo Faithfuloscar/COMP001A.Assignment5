@@ -12,7 +12,7 @@ body {
     background-image: url(images/Background.jpg);
     background-color: #123c63;
     height: min-content;
-    background-position: 50% 25%;
+    background-position: auto;
     background-repeat: no-repeat;
     background-size: contain;
 }
