@@ -36,12 +36,12 @@ a:link, a:visited{
     text-align: center;
     text-decoration: none; /* Removing the underline */
     border: 1px solid #000000; /* Bright blue border color */
-    padding: 2em;
+    padding: 1em;
     transition: all 0.3s ease; /* Adding a transition */
 }
 
 a:hover, a:active  {
-    background-color: white;
+    background-color: rgb(143, 142, 142);
 }
 ul {
     list-style: none; /* Removing the bullet points */
