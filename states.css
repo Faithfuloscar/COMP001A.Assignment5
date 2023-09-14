@@ -1,0 +1,50 @@
+.external-css {
+    color: #038C7F;
+    background-image: url(images/Background.jpg);
+}
+body, h1, h2, p, ul, li, a {
+    margin: 0; /*removing the default margin */
+    padding: 0; /*removing the default padding */
+    font-family: Arial, Helvetica, sans-serif; /*setting the default font */
+}
+
+body {
+    background-image: url(images/Background.jpg);
+    background-color: #123c63;
+    height: min-content;
+    background-position: 50% 25%;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+h1 {
+    color: #000000; 
+    font-size: 2em; 
+    margin-bottom: 1em; 
+
+}
+h2 {
+    color: whitesmoke;
+    font-size: 3em;
+    margin-bottom: 1em;
+
+}
+a:link, a:visited{
+    background-color: black;
+    display: block; /* making the link a block element */
+    width: 250px;
+    color: #3498db; /* Bright blue text color */
+    text-align: center;
+    text-decoration: none; /* Removing the underline */
+    border: 1px solid #000000; /* Bright blue border color */
+    transition: all 0.3s ease; /* Adding a transition */
+}
+
+a:hover, a:active  {
+    background-color: rgb(143, 142, 142);
+}
+ul {
+    list-style: none; /* Removing the bullet points */
+    margin-left: 20px; /* Indenting the list */
+    margin-bottom: 12px; /* Adding some space below the list */
+}
