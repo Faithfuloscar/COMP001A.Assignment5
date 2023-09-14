@@ -34,7 +34,7 @@ a {
 
 ul {
     list-style: none; /* Removing the bullet points */
-    margin-left: 100px; /* Indenting the list */
-    margin-right: 100px;
+    margin-left: auto; /* Indenting the list */
+    margin-right: auto;
     margin-bottom: 12px; /* Adding some space below the list */
 }
