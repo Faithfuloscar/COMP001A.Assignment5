@@ -29,15 +29,20 @@ h2 {
     margin-bottom: 1em;
 
 }
-a {
+a:link, a:visited{
+    background-color: black;
     display: list-item; /* making the link a block element */
     color: #3498db; /* Bright blue text color */
+    text-align: center;
     text-decoration: none; /* Removing the underline */
     border: 1px solid #000000; /* Bright blue border color */
-    padding-block: 2em;
+    padding: 2em;
     transition: all 0.3s ease; /* Adding a transition */
 }
 
+a:hover, a:active  {
+    background-color: white;
+}
 ul {
     list-style: none; /* Removing the bullet points */
     margin-left: 20px; /* Indenting the list */
