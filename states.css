@@ -14,7 +14,7 @@ body {
 }
 
 h1 {
-    color: #000000; 
+    color: #965e1f; 
     font-size: 2em; 
     margin-bottom: 2px; 
 
@@ -26,7 +26,7 @@ h2 {
 }
 
 h3 {
-    color: black;
+    color: #965e1f;
     font-size: 3em;
     margin-bottom: 1em;
 }
@@ -38,10 +38,10 @@ h4 {
 }
 
 a:link, a:visited{
-    background-color: black;
+    background-color: #965e1f;
     display: inline-block; /* making the link a block element */
     width: 250px;
-    color: #965e1f; /* Bright orange text color */
+    color: whitesmoke; /* Bright orange text color */
     text-align: center;
     text-decoration: none; /* Removing the underline */
     border: 1px solid #000000; /* Bright black border color */
