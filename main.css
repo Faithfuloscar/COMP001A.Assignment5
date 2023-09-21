@@ -52,6 +52,10 @@ a:link, a:visited{
     transition: all 0.3s ease; /* Adding a transition */
 }
 
+#t2{
+    text-align: center;
+}
+
 a:hover, a:active  {
     background-color: #9c7242;
 }
