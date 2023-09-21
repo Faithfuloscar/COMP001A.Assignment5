@@ -41,7 +41,7 @@ h2 {
 
 }
 a:link, a:visited{
-    background-color: black;
+    background-color: #965e1f;
     display: block; /* making the link a block element */
     width: 250px;
     color: #3498db; /* Bright blue text color */
