@@ -33,7 +33,6 @@ h1 {
     font-size: 2em; 
     margin-bottom: 1em; 
     text-align: center;
-
 }
 
 h2 {
@@ -45,7 +44,7 @@ h2 {
 
 a:link, a:visited{
     background-color: #965e1f;
-    display: block; /* making the link a block element */
+    display: inline-block; /* making the link a block element */
     width: 250px;
     color: whitesmoke; /* Bright text color */
     text-align: center;
