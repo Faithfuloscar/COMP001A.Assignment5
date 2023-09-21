@@ -41,7 +41,9 @@ h2 {
     margin-bottom: 0em;
     text-align: center;
 }
-
+main{
+    text-align: center;
+}
 a:link, a:visited{
     background-color: #965e1f;
     display: inline-block; /* making the link a block element */
