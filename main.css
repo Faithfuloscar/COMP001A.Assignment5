@@ -39,6 +39,11 @@ h2 {
     font-size: 3em;
     margin-bottom: 0em;
 
+.center {
+width: 50%;
+margin: auto;
+}
+
 }
 a:link, a:visited{
     background-color: #965e1f;
