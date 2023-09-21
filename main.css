@@ -32,19 +32,17 @@ h1 {
     color: #965e1f; 
     font-size: 2em; 
     margin-bottom: 1em; 
+    text-align: center;
 
 }
+
 h2 {
     color: whitesmoke;
     font-size: 3em;
     margin-bottom: 0em;
-
-.center {
-width: 50%;
-margin: auto;
+    text-align: center;
 }
 
-}
 a:link, a:visited{
     background-color: #965e1f;
     display: block; /* making the link a block element */
