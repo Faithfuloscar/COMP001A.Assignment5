@@ -17,11 +17,12 @@ h1 {
     color: #965e1f; 
     font-size: 2em; 
     margin-bottom: 2px; 
+    text-align: center;
 
 }
 h2 {
     color: whitesmoke;
-    font-size: 1em;
+    font-size: 2em;
     margin-bottom: 0em;
 }
 
@@ -29,12 +30,14 @@ h3 {
     color: #965e1f;
     font-size: 3em;
     margin-bottom: 1em;
+    text-align: center;
 }
 
 h4 {
     color: black;
     font-size: 1em;
     margin-bottom: 1em;
+    text-align: center;
 }
 
 a:link, a:visited{
