@@ -47,7 +47,7 @@ a:link, a:visited{
     color: #3498db; /* Bright blue text color */
     text-align: center;
     text-decoration: none; /* Removing the underline */
-    border: 1px solid #000000; /* Bright blue border color */
+    border: 1px round #000000; /* Bright blue border color */
     transition: all 0.3s ease; /* Adding a transition */
 }
 
