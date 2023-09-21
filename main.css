@@ -52,7 +52,7 @@ a:link, a:visited{
 }
 
 a:hover, a:active  {
-    background-color: rgb(143, 142, 142);
+    background-color: #9c7242;
 }
 ul {
     list-style: none; /* Removing the bullet points */
